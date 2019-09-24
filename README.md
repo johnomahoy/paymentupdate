@@ -7,7 +7,7 @@ These are the expected data from the user:WebsiteOrderID\
                                             DateofPayment\
                                             Description\
                                             PaymentAmount\
-                                            pDate\
+                                            pDate
                              
  Developed by: Benjie
  
