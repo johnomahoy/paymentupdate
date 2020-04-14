@@ -9,6 +9,10 @@ These are the expected data from the user:WebsiteOrderID\
                                             PaymentAmount\
                                             pDate
                              
+      (1) Get the invoice ID 
+      
+      (2) Format the date to "d-m-Y" put the data into the invoice custom fields
+      
  Developed by: Benjie
  
  Check the script for more info.
